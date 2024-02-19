@@ -42,3 +42,122 @@ body {
     margin: 0 auto;
     background-image: url(../img/bg-1920.png);
 }
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .main__wrapper{
+    margin-top: 612px;
+  }
+
+.main__title{
+  margin-left: 140px;
+  font-size: 78px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  letter-spacing: 26px;
+  text-transform: uppercase;
+  background: linear-gradient(to bottom right, #9bdeff 0%, #d800ff 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+  
+.main__subtitle {
+  padding-top: 77px;
+  padding-left: 33px;
+  width: 376px;
+  margin: 0 auto;
+  font-size: 36px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 14px;
+  text-transform: uppercase;
+  background: linear-gradient(to bottom right, rgb(82, 200, 255) 30%, #d900ff 140%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.main__text{
+    margin: 14px auto 0 auto;
+    width: 600px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(255, 253, 255);
+    line-height: 1.333;
+    text-align: center;
+}
+.btn__button {
+    padding: 0;
+    border: none;
+    cursor: pointer;
+  }
+.main__btn{
+  margin-top: 36px;
+}  
+
+.main__btn-button{
+  display: block;
+  width: 472px;
+  height: 94px;
+  margin: 0 auto;
+  font-size: 36px;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(to bottom right, rgb(82, 200, 255) 20%, #d900ff 110%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 2.308;
+  text-align: center;
+}
+  
+.what__wrapper {
+  width: 642px;
+  margin: 0 auto;
+  margin-top: 546px;
+}
+
+.what__title {
+  width: 543px;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 48px;
+  line-height: 1.765;
+  background: linear-gradient(to bottom right, rgb(82, 200, 255) 30%, #d900ff 120%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.what__text{
+  margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 23px;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1.850;
+  color: rgb(255, 253, 255);
+  text-align: center;
+}
+
+.what__subtext {
+  margin-top: 32px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+  line-height: 2.143;
+  font-size: 19px;
+  color: rgb(152, 202, 235);
+}
+
+
+
+  
+  
